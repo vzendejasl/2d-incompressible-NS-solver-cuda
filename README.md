@@ -4,7 +4,7 @@
 
 ### Installing / Getting started
 ```shell
-git clone https://github.com/vzendejasl/CS179.git
+git clone https://github.com/vzendejasl/2d-incompressible-NS-solver-cuda.git
 ```
 
 ### Installation Requirements
